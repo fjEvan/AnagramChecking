@@ -1,4 +1,4 @@
-// 2017.9.13  Anagram checking  Jiao Feng(Evan) (kinda like a selection sort)
+// 2017.9.13  Anagram checking  Jiao Feng(Evan) 
 
 import java.util.Scanner;  
 
